@@ -219,7 +219,7 @@ DEPENDENCIES
   omniauth-twitter
   puma (~> 3.7)
   rack-cors
-  rails (~> 5.1.4)
+  rails (~> 5.0.0)
   sass-rails (~> 5.0)
   selenium-webdriver
   turbolinks (~> 5)
